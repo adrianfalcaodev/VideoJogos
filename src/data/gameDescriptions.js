@@ -838,5 +838,289 @@ export const gameDescriptions = [
   {
     "name": "Norland",
     "description": "Simulador de reino medieval inspirado em RimWorld e Crusader Kings. O jogador controla uma família nobre e administra relações políticas, economia, conflitos internos e expansão territorial."
+  },
+  {
+    "name": "Insurgency",
+    "description": "FPS tático desenvolvido pela New World Interactive focado em realismo militar. O jogo abandona elementos arcade tradicionais e prioriza comunicação, posicionamento, controle de recuo e combate letal. Poucos disparos são suficientes para eliminar um inimigo, tornando cada movimentação importante. Os modos de jogo envolvem captura de objetivos, destruição de alvos estratégicos e confrontos entre forças de segurança e insurgentes."
+  },
+  {
+    "name": "Saints Row 2",
+    "description": "Jogo de ação em mundo aberto desenvolvido pela Volition. O jogador assume o controle do líder dos Saints após acordar de um longo coma e descobrir que sua gangue perdeu influência na cidade de Stilwater. A campanha envolve recuperar territórios, enfrentar organizações criminosas rivais e reconstruir o império dos Saints. O jogo é conhecido pela enorme liberdade de personalização, humor exagerado e atividades secundárias caóticas."
+  },
+  {
+    "name": "Black Desert Online",
+    "description": "MMORPG desenvolvido pela Pearl Abyss. Ambientado em um vasto mundo de fantasia, oferece um dos sistemas de combate em tempo real mais avançados do gênero, com combos, esquivas e habilidades altamente dinâmicas. Além do combate, possui sistemas profundos de comércio, pesca, domesticação de cavalos, navegação marítima, produção industrial, habitação e guerras entre guildas."
+  },
+  {
+    "name": "Assassin's Creed III",
+    "description": "Capítulo da franquia Assassin's Creed ambientado durante a Revolução Americana. O jogador controla Connor Kenway, descendente de nativos americanos e membro da Ordem dos Assassinos. A história acompanha eventos históricos envolvendo George Washington, Benjamin Franklin e outros personagens reais enquanto Connor tenta proteger seu povo e combater a influência dos Templários."
+  },
+  {
+    "name": "Amnesia: A Machine for Pigs",
+    "description": "Jogo de horror psicológico desenvolvido pela The Chinese Room. O industrial Oswald Mandus desperta após uma doença misteriosa e descobre que sua mansão esconde experimentos grotescos ligados a uma gigantesca máquina subterrânea. O foco está na narrativa, atmosfera opressiva e terror psicológico, reduzindo a dependência de mecânicas tradicionais de sobrevivência."
+  },
+  {
+    "name": "Mortal Kombat X",
+    "description": "Jogo de luta desenvolvido pela NetherRealm Studios. A história se passa anos após os eventos de Mortal Kombat (2011) e apresenta uma nova geração de guerreiros ao lado de personagens clássicos da franquia. O sistema de combate introduz variações de estilos para cada lutador, permitindo abordagens distintas durante as partidas."
+  },
+  {
+    "name": "Minecraft",
+    "description": "Sandbox desenvolvido originalmente por Markus Persson e posteriormente expandido pela Mojang. Os jogadores exploram mundos gerados proceduralmente compostos por blocos, coletam recursos, constroem estruturas, fabricam equipamentos e enfrentam criaturas hostis. Sua liberdade criativa permitiu o surgimento de cidades gigantescas, computadores funcionais, RPGs personalizados e inúmeras modificações criadas pela comunidade."
+  },
+  {
+    "name": "The Last Of Us Remastered",
+    "description": "Versão remasterizada para PlayStation 4 do aclamado jogo da Naughty Dog. A aventura acompanha Joel e Ellie em uma jornada através dos Estados Unidos devastados por uma infecção fúngica que transformou grande parte da humanidade em criaturas agressivas. Além das melhorias visuais e de desempenho, inclui conteúdos adicionais e o capítulo Left Behind."
+  },
+  {
+    "name": "Just Cause 2",
+    "description": "Jogo de ação em mundo aberto desenvolvido pela Avalanche Studios. Rico Rodriguez é enviado à ilha de Panau para derrubar um regime autoritário e localizar um antigo mentor desaparecido. O grande destaque é a liberdade para causar destruição utilizando gancho, paraquedas, veículos terrestres, aéreos e marítimos em um gigantesco mapa tropical."
+  },
+  {
+    "name": "Fall Guys: Ultimate Knockout",
+    "description": "Jogo multiplayer competitivo onde dezenas de participantes competem em desafios inspirados em programas de televisão de obstáculos. Os jogadores controlam personagens coloridos e precisam sobreviver a provas caóticas envolvendo física, corridas, sobrevivência e trabalho em equipe até restar apenas um vencedor."
+  },
+  {
+    "name": "ARK: Survival Of The Fittest",
+    "description": "Versão competitiva derivada de ARK: Survival Evolved. Os jogadores enfrentam-se em partidas focadas em sobrevivência, coleta de recursos, domesticação rápida de dinossauros e combate direto. O objetivo é tornar-se o último sobrevivente em um ambiente hostil repleto de criaturas pré-históricas."
+  },
+  {
+    "name": "Monster Hunter: World",
+    "description": "RPG de ação desenvolvido pela Capcom. Os jogadores assumem o papel de caçadores encarregados de rastrear e derrotar enormes monstros em ecossistemas vivos e interconectados. Cada criatura possui comportamentos únicos, padrões de ataque complexos e partes específicas que podem ser destruídas para obtenção de materiais raros."
+  },
+  {
+    "name": "Hitman 2",
+    "description": "Sequência da reinicialização moderna da franquia Hitman. O Agente 47 viaja por diversos países eliminando alvos de alto valor por meio de infiltração, disfarces e assassinatos criativos. Os cenários são altamente detalhados e oferecem dezenas de métodos diferentes para concluir cada missão."
+  },
+  {
+    "name": "War Thunder",
+    "description": "Jogo militar online desenvolvido pela Gaijin Entertainment. Os jogadores controlam veículos históricos da Segunda Guerra Mundial e da Guerra Fria, incluindo tanques, aviões, helicópteros e navios. O foco está na autenticidade dos modelos, física de combate e progressão baseada em diferentes nações."
+  },
+  {
+    "name": "Batman: Arkham Origins",
+    "description": "Prequela da série Arkham desenvolvida pela WB Games Montréal. Ambientado nos primeiros anos da carreira de Batman, acompanha o herói enquanto diversos assassinos profissionais tentam caçá-lo durante uma única noite em Gotham City. O jogo explora o início da rivalidade entre Batman e Coringa."
+  },
+  {
+    "name": "Titan Quest Anniversary Edition",
+    "description": "Versão comemorativa do clássico RPG de ação desenvolvido pela Iron Lore Entertainment. O jogador percorre regiões inspiradas em mitologias grega, egípcia e oriental enquanto combate criaturas lendárias e impede o retorno dos Titãs. O sistema de classes baseado na combinação de especializações continua sendo um dos pontos fortes do jogo."
+  },
+  {
+    "name": "Paladins",
+    "description": "Hero shooter desenvolvido pela Hi-Rez Studios. Equipes de cinco jogadores escolhem campeões com habilidades únicas e competem em modos baseados em objetivos. O sistema de cartas permite personalizar estilos de jogo e adaptar personagens a diferentes estratégias."
+  },
+  {
+    "name": "Bloodborne",
+    "description": "RPG de ação desenvolvido pela FromSoftware exclusivamente para PlayStation. O jogador assume o papel de um caçador que explora a cidade gótica de Yharnam, assolada por uma doença que transforma pessoas em monstros. O combate agressivo, a atmosfera inspirada em horror cósmico e a narrativa enigmática tornaram o jogo um dos títulos mais influentes da geração."
+  },
+  {
+    "name": "Journey",
+    "description": "Aventura artística desenvolvida pela Thatgamecompany. O jogador controla uma figura encapuzada atravessando desertos e ruínas em direção a uma montanha distante. A experiência enfatiza exploração, contemplação e cooperação silenciosa com outros jogadores encontrados aleatoriamente durante a jornada."
+  },
+  {
+    "name": "Undertale",
+    "description": "RPG independente criado por Toby Fox. Uma criança cai em um mundo subterrâneo habitado por monstros e precisa encontrar o caminho de volta para casa. O sistema de combate permite resolver confrontos sem violência, e as escolhas do jogador influenciam profundamente personagens, eventos e finais."
+  },
+  {
+    "name": "Half-Life",
+    "description": "Shooter revolucionário desenvolvido pela Valve. O físico Gordon Freeman precisa sobreviver após um experimento causar uma catástrofe interdimensional no complexo científico Black Mesa. O jogo redefiniu a narrativa em primeira pessoa ao integrar a história diretamente à jogabilidade."
+  },
+  {
+    "name": "Half-Life 2: Episode One",
+    "description": "Primeira continuação episódica de Half-Life 2. Gordon Freeman e Alyx Vance tentam escapar da Cidade 17 após os eventos do jogo principal, enquanto enfrentam as consequências da destruição da Cidadela."
+  },
+  {
+    "name": "Half-Life 2: Episode Two",
+    "description": "Segunda expansão episódica de Half-Life 2. Gordon e Alyx atravessam regiões rurais dominadas pela Combine enquanto transportam informações cruciais para a resistência humana. O episódio introduz novos inimigos, veículos e algumas das batalhas mais intensas da série."
+  },
+  {
+    "name": "Half-Life 2: Lost Coast",
+    "description": "Pequena campanha experimental criada pela Valve para demonstrar tecnologias avançadas de iluminação HDR. Apesar da curta duração, mantém a qualidade de design e narrativa ambiental características da franquia Half-Life."
+  },
+  {
+    "name": "Control",
+    "description": "Jogo de ação e aventura desenvolvido pela Remedy Entertainment. A protagonista Jesse Faden invade o Federal Bureau of Control, uma agência secreta que investiga fenômenos paranormais, em busca de respostas sobre seu passado. Após entrar em contato com uma entidade misteriosa, ela se torna diretora da organização e recebe poderes telecinéticos capazes de manipular objetos, voar e alterar o ambiente. O jogo combina combate sobrenatural, exploração de ambientes mutáveis e uma narrativa repleta de mistérios inspirados em ficção científica e horror cósmico."
+  },
+  {
+    "name": "L.A. Noire",
+    "description": "Aventura investigativa desenvolvida pela Team Bondi e publicada pela Rockstar Games. O jogador controla Cole Phelps, um veterano da Segunda Guerra Mundial que ingressa na polícia de Los Angeles durante os anos 1940. A campanha acompanha sua ascensão através de diferentes departamentos enquanto investiga assassinatos, roubos e conspirações. O sistema de interrogatórios utiliza tecnologia avançada de captura facial para permitir que o jogador analise expressões e identifique mentiras."
+  },
+  {
+    "name": "Super Meat Boy",
+    "description": "Plataforma independente criado por Edmund McMillen e Tommy Refenes. O jogador controla Meat Boy, um pequeno personagem feito de carne que precisa resgatar sua namorada Bandage Girl das mãos do vilão Dr. Fetus. O jogo é famoso por sua dificuldade elevada, controles extremamente precisos, fases curtas e mortes instantâneas que incentivam aprendizado constante."
+  },
+  {
+    "name": "For Honor",
+    "description": "Jogo de ação multiplayer desenvolvido pela Ubisoft. Cavaleiros, vikings e samurais entram em conflito em um mundo devastado pela guerra. O sistema de combate Art of Battle exige leitura dos movimentos do adversário, gerenciamento de resistência e precisão defensiva. Além dos modos competitivos, o jogo também oferece campanhas narrativas e batalhas em larga escala."
+  },
+  {
+    "name": "Star Wars Jedi: Fallen Order",
+    "description": "Aventura de ação desenvolvida pela Respawn Entertainment. O jogador controla Cal Kestis, um jovem Jedi sobrevivente da Ordem 66 que tenta escapar da perseguição do Império Galáctico. A jornada envolve exploração de diversos planetas, combate com sabre de luz, uso da Força e descoberta dos segredos da antiga Ordem Jedi."
+  },
+  {
+    "name": "Uncharted 4: A Thief's End",
+    "description": "Aventura cinematográfica desenvolvida pela Naughty Dog. Nathan Drake abandona sua aposentadoria para embarcar em uma última caça ao tesouro ao lado de seu irmão Sam. A narrativa leva os personagens por diversos países em busca do lendário tesouro do pirata Henry Avery, combinando exploração, escaladas, combate e sequências espetaculares."
+  },
+  {
+    "name": "Dead Space (2008)",
+    "description": "Survival horror de ficção científica desenvolvido pela Visceral Games. Isaac Clarke embarca na nave mineradora USG Ishimura para investigar um sinal de socorro, mas encontra a tripulação transformada em criaturas monstruosas chamadas Necromorphs. O jogo destaca-se pela atmosfera opressiva, combate estratégico baseado em desmembramento e design sonoro extremamente imersivo."
+  },
+  {
+    "name": "Detroit: Become Human",
+    "description": "Drama interativo desenvolvido pela Quantic Dream. Em um futuro onde androides convivem com humanos, três protagonistas — Connor, Kara e Markus — enfrentam dilemas relacionados à consciência artificial, liberdade e discriminação. As decisões do jogador alteram significativamente a narrativa e podem resultar em dezenas de desfechos diferentes."
+  },
+  {
+    "name": "Garry's Mod",
+    "description": "Sandbox criado por Garry Newman utilizando a tecnologia Source Engine. O jogo não possui objetivos definidos, permitindo que os jogadores criem construções, experimentos físicos, modos personalizados e cenários inteiros utilizando recursos de diversos jogos da Valve. Tornou-se uma das maiores plataformas de criação de conteúdo da comunidade."
+  },
+  {
+    "name": "Amnesia: The Dark Descent",
+    "description": "Jogo de horror psicológico desenvolvido pela Frictional Games. O protagonista Daniel desperta em um castelo abandonado sem memória recente e precisa reconstruir os eventos que o levaram até ali. A mecânica de sanidade mental, a ausência de combate direto e a atmosfera constante de vulnerabilidade fizeram do jogo uma referência moderna do gênero."
+  },
+  {
+    "name": "Saints Row: The Third",
+    "description": "Terceiro capítulo principal da franquia Saints Row. Os Saints transformaram-se em celebridades globais, mas precisam enfrentar uma organização criminosa internacional conhecida como The Syndicate. O jogo abraça completamente o humor absurdo, oferecendo armas extravagantes, veículos incomuns e missões extremamente exageradas."
+  },
+  {
+    "name": "Wolfenstein II: The New Colossus",
+    "description": "Sequência de Wolfenstein: The New Order desenvolvida pela MachineGames. B.J. Blazkowicz continua sua luta contra o regime nazista em uma América ocupada. O jogo expande a narrativa, introduz novas armas, habilidades e alguns dos momentos mais intensos da franquia."
+  },
+  {
+    "name": "Dead Cells",
+    "description": "Roguelite de ação desenvolvido pela Motion Twin. O jogador controla uma entidade imortal que assume corpos descartáveis para explorar um reino em ruínas. Cada partida apresenta mapas parcialmente aleatórios, armas diferentes e progressão baseada em habilidade e aprendizado."
+  },
+  {
+    "name": "Papers, Please",
+    "description": "Simulador de fiscalização de fronteiras criado por Lucas Pope. O jogador atua como agente de imigração em um estado autoritário fictício e deve verificar documentos, identificar irregularidades e decidir quem pode entrar no país. O jogo aborda temas como burocracia, ética, sobrevivência familiar e abuso de poder."
+  },
+  {
+    "name": "Call of Duty: Black Ops III",
+    "description": "Shooter futurista desenvolvido pela Treyarch. Ambientado em um futuro marcado por aprimoramentos cibernéticos, acompanha soldados conectados digitalmente a sistemas militares avançados. Além da campanha cooperativa, inclui modos multiplayer competitivos e a tradicional experiência Zombies."
+  },
+  {
+    "name": "Killing Floor",
+    "description": "Shooter cooperativo desenvolvido pela Tripwire Interactive. Equipes de jogadores enfrentam ondas sucessivas de criaturas geneticamente modificadas conhecidas como Zeds. Entre as rodadas é possível adquirir armas e equipamentos, preparando-se para inimigos cada vez mais perigosos."
+  },
+  {
+    "name": "Shadowrun Returns",
+    "description": "RPG tático ambientado em um universo cyberpunk que mistura tecnologia avançada e fantasia. O jogador investiga o misterioso caso do 'Dead Man's Switch' enquanto interage com corporações, hackers, mercenários, magos e criaturas sobrenaturais em uma Seattle futurista."
+  },
+  {
+    "name": "Divinity: Original Sin 2",
+    "description": "RPG desenvolvido pela Larian Studios e considerado um dos maiores RPGs modernos. O jogador controla um grupo de Sourcerers perseguidos por utilizarem uma forma proibida de magia. O sistema permite enorme liberdade de escolhas, interações ambientais complexas e combate tático baseado em turnos."
+  },
+  {
+    "name": "Resident Evil 5",
+    "description": "Capítulo da franquia Resident Evil ambientado na África. Chris Redfield e Sheva Alomar investigam um surto biológico relacionado à organização Tricell. O jogo enfatiza mais ação cooperativa do que horror tradicional, apresentando batalhas contra criaturas mutantes e revelações importantes sobre Albert Wesker."
+  },
+  {
+    "name": "Counter-Strike: Condition Zero",
+    "description": "Versão expandida de Counter-Strike focada em conteúdo para um jogador. Além dos modos competitivos tradicionais entre terroristas e contraterroristas, inclui campanhas com objetivos específicos e companheiros controlados por inteligência artificial."
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 2",
+    "description": "Shooter militar desenvolvido pela Infinity Ward. A campanha acompanha uma crise global desencadeada por operações secretas e ataques terroristas. O jogo tornou-se famoso por missões memoráveis, narrativa cinematográfica e um dos modos multiplayer mais influentes da história dos FPS."
+  },
+  {
+    "name": "Company of Heroes 2",
+    "description": "Jogo de estratégia em tempo real ambientado na Frente Oriental da Segunda Guerra Mundial. O jogador comanda forças soviéticas contra o exército alemão em batalhas que exigem posicionamento tático, uso do terreno e gerenciamento eficiente de recursos."
+  },
+  {
+    "name": "Injustice: Gods Among Us Ultimate Edition",
+    "description": "Jogo de luta desenvolvido pela NetherRealm Studios. Em uma realidade alternativa, Superman estabelece um regime autoritário após sofrer uma tragédia devastadora. Heróis e vilões do universo DC entram em conflito para decidir o destino da humanidade."
+  },
+  {
+    "name": "Assassin's Creed IV: Black Flag",
+    "description": "Aventura em mundo aberto ambientada durante a Era de Ouro da Pirataria. O jogador controla Edward Kenway, um corsário galês que se envolve na guerra secreta entre Assassinos e Templários. O jogo destaca-se pela exploração naval, batalhas marítimas e vasto mundo caribenho."
+  },
+  {
+    "name": "Hitman: Absolution",
+    "description": "Capítulo da franquia Hitman focado em uma narrativa mais pessoal para o Agente 47. Após receber uma missão que entra em conflito com seus princípios, ele torna-se alvo de antigos aliados e precisa sobreviver enquanto protege uma jovem ligada a experimentos secretos."
+  },
+  {
+    "name": "Sid Meier's Civilization V",
+    "description": "Jogo de estratégia por turnos desenvolvido pela Firaxis Games. O jogador lidera uma civilização desde a antiguidade até a era moderna, expandindo territórios, pesquisando tecnologias, conduzindo diplomacia e travando guerras para alcançar diferentes condições de vitória."
+  },
+  {
+    "name": "Mad Max",
+    "description": "Jogo de ação em mundo aberto desenvolvido pela Avalanche Studios e ambientado no universo pós-apocalíptico criado por George Miller. O jogador controla Max Rockatansky enquanto atravessa desertos devastados em busca de recursos e vingança. O combate mistura confrontos corpo a corpo inspirados na série Arkham com intensas batalhas veiculares, nas quais o carro Magnum Opus funciona como principal ferramenta de sobrevivência."
+  },
+  {
+    "name": "Metal Gear Solid V: The Phantom Pain",
+    "description": "Jogo de ação furtiva desenvolvido pela Kojima Productions. O jogador controla Venom Snake em uma narrativa de vingança ambientada durante a Guerra Fria. O enorme mundo aberto permite infiltrações altamente flexíveis utilizando equipamentos, veículos, companheiros e condições climáticas dinâmicas. É considerado um dos sistemas de stealth mais avançados já criados."
+  },
+  {
+    "name": "Grand Theft Auto: San Andreas",
+    "description": "Clássico jogo de ação em mundo aberto da Rockstar Games. O jogador acompanha Carl 'CJ' Johnson em seu retorno a Los Santos após a morte de sua mãe. A campanha explora conflitos entre gangues, corrupção policial e ascensão criminosa em um estado inspirado na Califórnia e Nevada dos anos 1990."
+  },
+  {
+    "name": "The Witcher: Enhanced Edition Director's Cut",
+    "description": "Primeiro jogo da franquia The Witcher desenvolvido pela CD Projekt Red. O jogador assume o papel de Geralt de Rívia, um caçador de monstros que sofre de amnésia e tenta recuperar suas memórias enquanto se envolve em conflitos políticos e sobrenaturais. A Enhanced Edition inclui melhorias técnicas, novas animações e conteúdo adicional."
+  },
+  {
+    "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "description": "Segundo capítulo da saga de Geralt de Rívia. Após ser acusado de assassinar um rei, Geralt inicia uma investigação que o coloca no centro de uma conspiração envolvendo governantes, magos e forças militares. O jogo é conhecido por suas escolhas narrativas profundas, capazes de alterar significativamente capítulos inteiros da história."
+  },
+  {
+    "name": "Apex Legends",
+    "description": "Battle Royale gratuito desenvolvido pela Respawn Entertainment e ambientado no universo Titanfall. Equipes de três jogadores escolhem Lendas com habilidades únicas e competem em partidas focadas em movimentação fluida, trabalho em equipe e combate estratégico. O sistema de comunicação contextual revolucionou a interação entre jogadores sem microfone."
+  },
+  {
+    "name": "Life is Strange",
+    "description": "Aventura narrativa desenvolvida pela Dontnod Entertainment. A estudante Max Caulfield descobre a capacidade de voltar no tempo e utiliza esse poder para tentar evitar uma tragédia envolvendo sua amiga Chloe Price. As escolhas do jogador afetam relacionamentos, eventos futuros e o desfecho emocional da história."
+  },
+  {
+    "name": "BioShock",
+    "description": "Shooter em primeira pessoa desenvolvido pela Irrational Games. Após sobreviver a um acidente aéreo, o protagonista descobre Rapture, uma cidade submarina construída para ser uma utopia livre das limitações da sociedade moderna. O jogo combina combate com armas e poderes genéticos chamados Plasmids, enquanto explora temas filosóficos relacionados a livre-arbítrio e objetivismo."
+  },
+  {
+    "name": "God of War (2018)",
+    "description": "Reinvenção da franquia God of War desenvolvida pela Santa Monica Studio. Kratos vive agora nas terras da mitologia nórdica e embarca em uma jornada ao lado de seu filho Atreus para cumprir o último desejo de sua falecida esposa. O jogo combina combate brutal, narrativa emocional e exploração de um mundo interconectado."
+  },
+  {
+    "name": "Destiny 2",
+    "description": "Shooter online desenvolvido pela Bungie. Os jogadores assumem o papel de Guardiões encarregados de proteger a humanidade contra ameaças alienígenas e cósmicas. O jogo mistura campanhas narrativas, atividades cooperativas, raides complexas e modos competitivos em um universo de ficção científica em constante evolução."
+  },
+  {
+    "name": "Fallout 4",
+    "description": "RPG de ação em mundo aberto desenvolvido pela Bethesda Game Studios. O protagonista emerge de um abrigo nuclear após séculos em criogenia e inicia uma busca por seu filho desaparecido em uma Boston devastada pela guerra nuclear. O jogo introduz sistemas avançados de construção de assentamentos e personalização de equipamentos."
+  },
+  {
+    "name": "Limbo",
+    "description": "Jogo independente de plataforma e puzzles desenvolvido pela Playdead. O jogador controla um garoto que atravessa um mundo sombrio e silencioso em busca de sua irmã. O visual monocromático, a narrativa minimalista e os quebra-cabeças ambientais criam uma atmosfera única de mistério e melancolia."
+  },
+  {
+    "name": "PAYDAY 2",
+    "description": "Shooter cooperativo focado em assaltos desenvolvido pela Overkill Software. Equipes de criminosos executam roubos a bancos, laboratórios, transportes blindados e outras operações complexas. Cada missão pode ser realizada de forma furtiva ou agressiva, oferecendo grande variedade estratégica."
+  },
+  {
+    "name": "Team Fortress 2",
+    "description": "Shooter multiplayer da Valve que popularizou o conceito moderno de heróis com classes distintas. Os jogadores escolhem entre nove personagens com funções específicas, incluindo ataque, defesa e suporte. Seu estilo visual cartunesco e forte personalidade dos personagens ajudaram a torná-lo um dos FPS online mais influentes da história."
+  },
+  {
+    "name": "Dota 2",
+    "description": "MOBA desenvolvido pela Valve baseado no mod Defense of the Ancients. Duas equipes de cinco jogadores competem para destruir a estrutura principal adversária enquanto controlam heróis com habilidades únicas. O jogo possui enorme profundidade estratégica e é um dos principais títulos dos esportes eletrônicos."
+  },
+  {
+    "name": "Warframe",
+    "description": "Jogo cooperativo online desenvolvido pela Digital Extremes. Os jogadores controlam guerreiros biomecânicos conhecidos como Warframes e participam de missões espalhadas por todo o sistema solar. O jogo combina movimentação extremamente rápida, combate corpo a corpo avançado e personalização profunda."
+  },
+  {
+    "name": "Rocket League",
+    "description": "Jogo competitivo desenvolvido pela Psyonix que mistura futebol e veículos movidos a foguetes. Equipes utilizam carros capazes de saltar, voar e realizar acrobacias para marcar gols em arenas futuristas. Sua combinação de acessibilidade e alto nível competitivo tornou-o um fenômeno global."
+  },
+  {
+    "name": "Horizon Zero Dawn",
+    "description": "RPG de ação em mundo aberto desenvolvido pela Guerrilla Games. A protagonista Aloy explora um mundo pós-apocalíptico onde tribos humanas coexistem com máquinas gigantes em forma de animais. A história investiga o colapso da civilização moderna e os segredos da origem dessas criaturas mecânicas."
+  },
+  {
+    "name": "Metro 2033",
+    "description": "Shooter de sobrevivência baseado nos romances de Dmitry Glukhovsky. Após uma guerra nuclear devastar a Terra, os sobreviventes vivem nos túneis do metrô de Moscou. O jogador controla Artyom em uma missão para impedir uma ameaça misteriosa enquanto enfrenta mutantes, radiação e conflitos humanos."
+  },
+  {
+    "name": "ARK: Survival Evolved",
+    "description": "Jogo de sobrevivência em mundo aberto desenvolvido pela Studio Wildcard. Os jogadores despertam em uma ilha habitada por dinossauros e criaturas pré-históricas, precisando coletar recursos, construir bases, fabricar equipamentos e domesticar animais para sobreviver em ambientes extremamente hostis."
+  },
+  {
+    "name": "Ori and the Blind Forest: Definitive Edition",
+    "description": "Versão expandida do premiado metroidvania da Moon Studios. O jogador controla Ori, um espírito guardião que tenta restaurar a vida da floresta de Nibel após uma catástrofe. A Definitive Edition adiciona novas áreas, habilidades, modos de dificuldade e conteúdo narrativo adicional."
   }
 ]
